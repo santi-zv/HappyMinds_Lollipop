@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "996652671521",
+    "firebase_url": "https://happymindsbeta.firebaseio.com",
+    "project_id": "happymindsbeta",
+    "storage_bucket": "happymindsbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996652671521:android:028657e672b4ba61",
+        "android_client_info": {
+          "package_name": "com.capstone.srzv.happyminds_lollipop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996652671521-u20ub34qe762gt2kt6qfk6m5uhr9r5js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC52YWTN1T0wpJnhB57EwbRJzVLGySgouM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
